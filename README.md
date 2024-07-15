@@ -21,7 +21,7 @@ This is Task 04 a personal portfolio website showcasing my skills, projects, edu
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/maruti-dalvi-03/ProdigyInfoTech_WD_04.git
     ```
 2. Navigate to the project directory:
     ```bash
